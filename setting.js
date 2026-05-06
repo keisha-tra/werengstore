@@ -24,9 +24,9 @@ const figlet = require("figlet");
 //  Informasi dasar tentang bot kamu
 // ════════════════════════════════════════════════════════════
 
-global.BOT_NAME = "MOVA | BOT AUTO ORDER";  // ← Nama bot (tampil di semua notifikasi)
-global.BOT_TOKEN = "8564970869:AAEzni0_WfxAm9FJIrv20Qjr7PPjDR-pbvk"; // ← Token dari @BotFather
-global.urlBot = "https://t.me/Mova_bot"; // ← Link username bot kamu
+global.BOT_NAME = "LuviSweetStore | BOT AUTO ORDER";  // ← Nama bot (tampil di semua notifikasi)
+global.BOT_TOKEN = "8350817880:AAFfO9D1-_H5Ei4tHqSS91zeNBbWkGO9Xz0"; // ← Token dari @BotFather
+global.urlBot = "https://t.me/LuviSweetStorebot"; // ← Link username bot kamu
 global.DEBUG = false; // Ubah ke  true  untuk melihat log detail (mode developer)
 
 // ════════════════════════════════════════════════════════════
@@ -34,11 +34,11 @@ global.DEBUG = false; // Ubah ke  true  untuk melihat log detail (mode developer
 //  Akun Telegram yang memiliki akses penuh ke bot
 // ════════════════════════════════════════════════════════════
 
-global.OWNER_NAME = "MOVA";          // ← Nama owner Baru
+global.OWNER_NAME = "Luvi";          // ← Nama owner Baru
 global.OWNER_ID = "8379278966";              // ← ID Telegram kamu (cek di @userinfobot)
-global.OWNER_NUMBER = "6285169691602";           // ← Nomor HP (format: 628xxx tanpa +)
-global.OWNER = ["https://t.me/oumanlin"]; // ← Username Telegram owner
-global.CHANNEL = "https://t.me/movabiz";   // ← Link channel / grup utama
+global.OWNER_NUMBER = "628";           // ← Nomor HP (format: 628xxx tanpa +)
+global.OWNER = ["https://t.me/Palu99ada"]; // ← Username Telegram owner
+global.CHANNEL = "https://t.me/Palu99ada";   // ← Link channel / grup utama
 
 // ════════════════════════════════════════════════════════════
 //  💳  PAKASIR — PAYMENT GATEWAY
