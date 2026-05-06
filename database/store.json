@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "GEMINI AI",
+    "CHAT GPT",
+    "CANVA",
+    "GMAIL"
+  ],
+  "products": [
+    {
+      "id": "P1772873198433",
+      "category": "GEMINI AI",
+      "name": "GEMINI 4 BULAN",
+      "price": 20000,
+      "desc": "AKUN GEMINI HEAD GARANSI 1BULAN",
+      "success_msg": "Silahkan Amankan Data Akun.",
+      "stocks": [],
+      "grosir_price": 18000,
+      "grosir_min": 5,
+      "notifyList": []
+    },
+    {
+      "id": "P1774621225287",
+      "category": "GEMINI AI",
+      "name": "GEMINI 3 BULAN",
+      "price": 18000,
+      "desc": "GEMINI PRO 3B BERGARANSI",
+      "success_msg": "Silahkan Amankan data akun 😊.",
+      "stocks": [],
+      "grosir_price": 16000,
+      "grosir_min": 5,
+      "notifyList": []
+    },
+    {
+      "id": "P1776191878203",
+      "category": "CHAT GPT",
+      "name": "CHATGPT PLUS 1BULAN",
+      "price": 3500,
+      "desc": "Privat Garansi Login 1x24jam",
+      "success_msg": "✉ Silahkan Amankan data akun.\n\nTutorial login bisa cek disini:\nhttps://t.me/movabii/33",
+      "grosir_price": 3200,
+      "grosir_min": 5,
+      "stocks": [],
+      "notifyList": []
+    },
+    {
+      "id": "P1776392149427",
+      "category": "CANVA",
+      "name": "CANVA HEAD 1 BULAN",
+      "price": 4000,
+      "desc": "Silahkan amankan data akun",
+      "success_msg": "",
+      "grosir_price": null,
+      "grosir_min": null,
+      "stocks": []
+    },
+    {
+      "id": "P1777460691040",
+      "category": "GMAIL",
+      "name": "GMAIL FRESH",
+      "price": 4000,
+      "desc": "Garansi Login 1x24Jam",
+      "success_msg": "Silahkan Amankan Data akun.",
+      "grosir_price": null,
+      "grosir_min": null,
+      "stocks": []
+    }
+  ],
+  "category_details": {
+    "GEMINI AI": "BERGARANSI 15HARI SEJAK PEMBELIAN",
+    "CHAT GPT": "Privat Bergaransi.",
+    "CANVA": "NOGAR",
+    "GMAIL": "Garansi Login 1x24Jam"
+  }
+}
