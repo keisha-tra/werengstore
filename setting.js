@@ -36,7 +36,7 @@ global.DEBUG = false; // Ubah ke  true  untuk melihat log detail (mode developer
 
 global.OWNER_NAME = "False promise";          // ← Nama owner Baru
 global.OWNER_ID = "8379278966";              // ← ID Telegram kamu (cek di @userinfobot)
-global.OWNER_NUMBER = "628";           // ← Nomor HP (format: 628xxx tanpa +)
+global.OWNER_NUMBER = "6283180891183";           // ← Nomor HP (format: 628xxx tanpa +)
 global.OWNER = ["https://t.me/Palu99ada"]; // ← Username Telegram owner
 global.CHANNEL = "https://t.me/Palu99ada";   // ← Link channel / grup utama
 
