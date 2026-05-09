@@ -45,8 +45,8 @@ global.CHANNEL = "https://t.me/Palu99ada";   // ← Link channel / grup utama
 //  Daftar akun & buat API Key di: https://pakasir.com/
 // ════════════════════════════════════════════════════════════
 
-global.PAKASIR_API_KEY = "8rj3ITG2NFFdu60CmYEdMCYTTzhlSpDA02"; // ← API Key Pakasir, Daftar Kyc dulu, trus Buat Project
-global.PAKASIR_PROJECT_SLUG = "MOVA"; // ← Nama project (pastikan mode diatur ke "Action")
+global.PAKASIR_API_KEY = "1PRUVb0Dy1OX3NanScOdUmwrGDG1hpar"; // ← API Key Pakasir, Daftar Kyc dulu, trus Buat Project
+global.PAKASIR_PROJECT_SLUG = "wereng"; // ← Nama project (pastikan mode diatur ke "Action")
 
 // ════════════════════════════════════════════════════════════
 //  🖼️  GAMBAR & MEDIA
